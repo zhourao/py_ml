@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/*.md
+*.pyc
+lr/.ipynb_checkpoints/*.py
+lr/.ipynb_checkpoints/*.ipynb
