@@ -1,5 +1,6 @@
 
 .ipynb_checkpoints/*.md
 *.pyc
-lr/.ipynb_checkpoints/*.py
-lr/.ipynb_checkpoints/*.ipynb
+*/.ipynb_checkpoints/*.py
+*/.ipynb_checkpoints/*.ipynb
+.DS_Store
